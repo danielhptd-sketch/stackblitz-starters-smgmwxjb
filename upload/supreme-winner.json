@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "model": "supreme-winner",
+  "label": "Supreme Winner",
+  "currency": "GBP",
+
+  "flow": {
+    "steps": ["size","cloth","modelType","accessoryPack"],   
+    "deliveryPlacement": "panel"                             
+  }
+  
+
+  "finishes": [
+    { "slug": "black-pearl",        "label": "Black Pearl",        "product_id": 26160, "eta": "2-3" },
+    { "slug": "rustic-black",       "label": "Rustic Black",       "product_id": 38507, "eta": "TBC" },
+    { "slug": "walnut",             "label": "Walnut",             "product_id": 26177, "eta": "TBC" },
+    { "slug": "white-pearl",        "label": "White Pearl",        "product_id": 26183, "eta": "4 weeks" },
+    { "slug": "italian-grey",       "label": "Italian Grey",       "product_id": 31610, "eta": "TBC" },
+    { "slug": "gloss-black-marble", "label": "Gloss Black Marble", "product_id": 26191, "eta": "TBC" },
+    { "slug": "concrete",           "label": "Concrete",           "product_id": 38770, "eta": "TBC" },
+    { "slug": "driftwood",          "label": "Driftwood",          "product_id": 31621, "eta": "TBC" },
+    { "slug": "oak",                "label": "Oak",                "product_id": 26169, "eta": "TBC" },
+    { "slug": "heart-oak",          "label": "Heart Oak",          "product_id": 26169, "eta": "TBC" }
+  ],
+
+  "size": {
+    "label": "Table Size",
+    "options": [
+      { "value": "6ft", "label": "6ft", "delta": 0 },
+      { "value": "7ft", "label": "7ft", "delta": 0 }
+    ]
+  },
+
+  "cloth": {
+    "label": "Cloth",
+    "families": [
+      { "ref": "strachan",      "delta": 0,   "colours": "*" },
+      { "ref": "elite-pro",     "delta": 99,  "colours": "*" },
+      { "ref": "simonis",       "delta": 129, "colours": "*" },
+      { "ref": "smart",         "delta": 129, "colours": "*" },
+      { "ref": "strachan-pro",  "delta": 149, "colours": "*" },
+      { "ref": "match",         "delta": 179, "colours": "*" }
+    ]
+  },
+
+  "modelType": {
+    "label": "Model",
+    "options": [
+      { "value": "freeplay",        "label": "Freeplay",        "delta": 0 },
+      { "value": "mechanical-coin", "label": "Mechanical Coin", "delta": 375 },
+      { "value": "electric-coin",   "label": "Electric Coin",   "delta": 675 },
+      { "value": "contactless",     "label": "Contactless",     "delta": 1595 }
+    ]
+  },
+
+  "deliveryInstall": {
+    "label": "Delivery & Installation",
+    "options": [
+      { "value": "delivery-only",           "label": "Delivery Only",                       "delta": 0 },
+      { "value": "delivery-install-ground", "label": "Delivery & Installation (Ground)",    "delta": 125 },
+      { "value": "delivery-install-1st",    "label": "Delivery & Installation (1st Floor)", "delta": 175 }
+    ]
+  },
+
+  "accessoryPack": {
+    "label": "Accessory Pack",
+    "options": [
+      { "value": "free",   "label": "Free Pack",   "delta": 0 },
+      { "value": "deluxe", "label": "Deluxe Pack", "delta": 149 }
+    ]
+  }
+}

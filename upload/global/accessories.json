@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "packs": {
+    "free":   { "label": "Free Pack",   "defaultDelta": 0,   "contents": ["Basic cues","Triangle","Chalks"] },
+    "deluxe": { "label": "Deluxe Pack", "defaultDelta": 149, "contents": ["Upgraded cues","Premium balls","Brush"] }
+  }
+}

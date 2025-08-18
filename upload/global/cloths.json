@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "families": {
+    "strachan": {
+      "label": "Strachan",
+      "info": "Classic napped wool cloth.",
+      "colours": [
+        { "name": "Green", "hex": "#006D2A" },
+        { "name": "Blue",  "hex": "#382CA9" },
+        { "name": "Red",   "hex": "#D9211E" },
+        { "name": "Black", "hex": "#010102" },
+        { "name": "Burgundy", "hex": "#7f1e13" },
+        { "name": "Grey",  "hex": "#6d7e86" },
+        { "name": "Purple","hex": "#21085e" }
+      ]
+    },
+    "club": {
+        "label": "Club",
+        "info": "The standard cloth. Napped wool gives it a slow speed making it a great choice for a British Pool Table.",
+        "colours": [
+            { "name": "Green", "hex": "#006D2A"},
+            { "name": "Red", "hex": "#D9211E"},
+            { "name": "Blue", "hex": "#382CA9"},
+            { "name": "Burgundy", "hex": "#7f1e13"}
+        ]
+    },
+    "elite-pro": {
+      "label": "Elite Pro",
+      "info": "Worsted nylon makes this a faster, durable speed cloth. Great for American Pool, outdoor tables and especially good on tables that see heavy use or maybe have kids playing.",
+      "colours": [
+        { "name": "Black",      "hex": "#222228" },
+        { "name": "Bankers Grey",   "hex": "#585d62" },
+        { "name": "Charcoal",      "hex": "#323641" },
+        { "name": "Marine Blue",      "hex": "#20202b" },
+        { "name": "Royal Blue",      "hex": "#20202b" },
+        { "name": "Electric Blue",      "hex": "#3e6a91" },
+        { "name": "Cadet Blue",      "hex": "#3a4361" },
+        { "name": "Powder Blue",      "hex": "#677c94" },
+        { "name": "Olive",      "hex": "#353530" },
+        { "name": "Spruce",      "hex": "#1c2c26" },
+        { "name": "Petrol Blue",      "hex": "#163452" },
+        { "name": "English Green",      "hex": "#204014" },
+        { "name": "American Green",      "hex": "#21393c" },
+        { "name": "Purple",      "hex": "#2f1d38" },
+        { "name": "Fuchsia",      "hex": "#ac3a70" },
+        { "name": "Burgundy",      "hex": "#601a35" },
+        { "name": "Red",      "hex": "#942433" },
+        { "name": "Bright Red",      "hex": "#c01e2b" },
+        { "name": "Orange",      "hex": "#e75924" },
+        { "name": "Camel",      "hex": "#84685b" }
+      ]
+    },
+    "simonis": {
+      "label": "Simonis",
+      "info": "A high-end hybrid of traditional wool and nylon speed cloth. Worsted and plays like a speed cloth, but more durable to pool ball friction burn.",
+      "colours": [
+        { "name": "Yellow Green", "hex": "#206d48" },
+        { "name": "Blue Green",  "hex": "#114951" },
+        { "name": "English Green",  "hex": "#1e411b" },
+        { "name": "Olive Green",  "hex": "#303327" },
+        { "name": "Apple Green",  "hex": "#2b7323" },
+        { "name": "Spruce", "hex": "#1b2b21" },
+        { "name": "Dark Green",  "hex": "#163a39" },
+        { "name": "Petroleum Blue",  "hex": "#0a2e52" },
+        { "name": "Marine Blue",  "hex": "#0a2579" },
+        { "name": "Royal Blue",  "hex": "#0d348b" },
+        { "name": "Tournament Blue", "hex": "#0c63a8" },
+        { "name": "Electric Blue",  "hex": "#184583" },
+        { "name": "Powder Blue",  "hex": "#46627a" },
+        { "name": "Chocolate",  "hex": "#392a27" },
+        { "name": "Red",  "hex": "#a6141c" },
+        { "name": "Burgundy", "hex": "#550f1c" },
+        { "name": "Wine",  "hex": "#3a152b" },
+        { "name": "Fuchsia",  "hex": "#942f6b" },
+        { "name": "Purple",  "hex": "#5c5583" },
+        { "name": "Orange",  "hex": "#dd6e30" },
+        { "name": "Camel", "hex": "#90795a" },
+        { "name": "Gold",  "hex": "#a4986e" },
+        { "name": "Grey",  "hex": "#707978" },
+        { "name": "Slate Grey",  "hex": "#292f3c" },
+        { "name": "Black",  "hex": "#0e1416" }
+      ]
+    },
+    "smart": {
+      "label": "Smart",
+      "info": "The premium English pool cloth. Napped wool gives it a slow-medium speed (also makes it suitable for Snooker).",
+      "colours": [
+        { "name": "Black", "hex": "#206d48" },
+        { "name": "Silver",  "hex": "#114951" },
+        { "name": "Taupe",  "hex": "#1e411b" },
+        { "name": "Tan",  "hex": "#303327" },
+        { "name": "Gold",  "hex": "#2b7323" },
+        { "name": "Paprika", "hex": "#1b2b21" },
+        { "name": "Nutmeg",  "hex": "#163a39" },
+        { "name": "Ranger Green",  "hex": "#0a2e52" },
+        { "name": "Olive",  "hex": "#0a2579" },
+        { "name": "Sage",  "hex": "#0d348b" },
+        { "name": "Powder Blue", "hex": "#0c63a8" },
+        { "name": "Slate",  "hex": "#184583" },
+        { "name": "Navy",  "hex": "#46627a" },
+        { "name": "Royal Blue",  "hex": "#392a27" },
+        { "name": "French Navy",  "hex": "#a6141c" },
+        { "name": "Royal Navy", "hex": "#550f1c" },
+        { "name": "Purple",  "hex": "#3a152b" },
+        { "name": "Maroon",  "hex": "#942f6b" },
+        { "name": "Cherry",  "hex": "#5c5583" },
+        { "name": "Windsor Red",  "hex": "#dd6e30" },
+        { "name": "Red", "hex": "#90795a" },
+        { "name": "Orange",  "hex": "#a4986e" },
+        { "name": "Pink",  "hex": "#707978" },
+        { "name": "Pewter",  "hex": "#292f3c" }
+      ]
+    },
+    "strachan-pro": {
+      "label": "Strachan Pro",
+      "info": "Strachan 861 is the iconic powder blue hybrid speed cloth used in IPA pool tournaments. A consistent play surface worthy of the professionals. Strachan Superfine is the ultimate in playability, with a fast, napped surface. As used on the BT Sport Ultimate Pool Table League.",
+      "colours": [
+        { "name": "861 Powder Blue", "hex": "#586d84" },
+        { "name": "Superfine Grey",  "hex": "#6d7d84" }
+      ]
+    },
+    "match": {
+      "label": "Match",
+      "info": "The fastest playing traditional napped wool cloth, requiring precision with cue ball control.",
+      "colours": [
+        { "name": "Green", "hex": "#2b4f1c" },
+        { "name": "Blue", "hex": "#3d5b61" },
+        { "name": "Silver",  "hex": "#585858" }
+      ]
+    }
+  }
+}
