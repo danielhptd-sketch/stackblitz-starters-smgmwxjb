@@ -7,8 +7,7 @@
   "flow": {
     "steps": ["size","cloth","modelType","accessoryPack"],   
     "deliveryPlacement": "panel"                             
-  }
-  
+  },
 
   "finishes": [
     { "slug": "black-pearl",        "label": "Black Pearl",        "product_id": 26160, "eta": "2-3" },
